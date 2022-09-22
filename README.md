@@ -1,1 +1,1 @@
-# Parsing-photo-enerator
+# Parsing-photo-generator
